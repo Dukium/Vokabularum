@@ -1,26 +1,3 @@
-print("Update 2 is here!")
-print("Version 2.5 - New feature: 'Skip da word'")
-print("            - Bugs fixed")
-print("            - 1/2 of Vocabulary completed")
-print()
-print("###########################################################################")
-print()
-print("Pisi kako oces sa slovima č,ć itd.")
-print("Ako ti je dosta upisi komandu 'stop' umisto odgovora\nNEW: Ako mislis da znas odgovor, njegovu deklinaciju/konjugaciju i rod upisi 'fs'")
-print()
-print("Primjeri za odgovore -    amica     - pontus - magister -   credo   -   capio")
-print("                    - prijateljica -  more  -  ucitelj - vjerovati - zarobiti")
-print()
-print("Pitanja su totalno nasumicna i ne ponavljaju se vise puta osim ako dovrsis cijeli vokabular onda pocne vrtit ispocetka")
-print()
-print()
-print("Ova verzija jos nema upis deklinacija i tih stvari pa bi bilo dobro da u glavi to odgovoris (moja preporuka)")
-print()
-print("###########################################################################")
-print()
-
-
-
 
 
 
